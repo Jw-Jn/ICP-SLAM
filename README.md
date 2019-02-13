@@ -1,2 +1,1 @@
-# Introduction
-CMPT-742 (Visual Computing) Course Assignment: ICP SLAM
+# IntroductionCMPT-742 (Visual Computing) Course Assignment: ICP SLAM## Demo![image](demo.gif)  [whole video](https://drive.google.com/open?id=1OZsDrhGnFtkhq1g01fHTshuoI_xSa04S)
